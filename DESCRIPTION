@@ -1,0 +1,14 @@
+Package: BootPred
+Type: Package
+Title: Model predictions by bootstrap
+Version: 0.0.1
+Date: 2024-03-04
+Author: Yasuyuki Nomura
+Maintainer: The package maintainer <green.plant8931@gmail.com>
+Description: Model predictions by bootstrap.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  actuar, MASS, glmmTMB
+RoxygenNote: 7.2.3
